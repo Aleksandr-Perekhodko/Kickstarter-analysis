@@ -12,6 +12,7 @@ Total Projects, Percentage Successful, Percentage Failed, and Percentage Cancele
 
 
 <img width="496" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/97326526/156068815-1a1f4d3c-12fb-4761-a4b5-2f58e5b37b12.png">
+
 ### Challenges and Difficulties Encountered
 
 ## Results
