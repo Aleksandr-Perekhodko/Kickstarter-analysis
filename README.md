@@ -14,5 +14,5 @@ Total Projects, Percentage Successful, Percentage Failed, and Percentage Cancele
 <img width="496" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/97326526/156068815-1a1f4d3c-12fb-4761-a4b5-2f58e5b37b12.png">
 
 ### Challenges and Difficulties Encountered
-
+The one main problem that I encountered was on the *Outcomes Based on Goals* I have never used **COUNTIFS** formula and was getting to know how to use the formula, everything was going well until I reached the Number Canceled column and saw that for each of the numbered canceled I had received 0. I wasnt sure if it was because I had done something wrong so I started to rewrite the formula in different ways to see if it was the something that I had done with the formula and I had kept getting error codes since I would sometimes forget to add " " for the criteria me losing confidence and thinking that maybe all of my formulas were incorrect. I would then go to the *Kickstarter* sheet to filter out and see how many canceled project there were, then to realize that there were actually 0 plays that had any canceled outcomes. 
 ## Results
